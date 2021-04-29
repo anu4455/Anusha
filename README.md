@@ -1,1 +1,10 @@
-# Anusha
+# SHAPEAI WEB DEV BOOTCAMP
+Hi I made this project during 7days free Bootcamp,counducted by<b>SHAPEAI
+  </b>
+  The instructor during the session was Mr.Shaurya Sinha (a Data Analyst at Jio).I got to
+  learn a lot during these 7days and it was an amazing experience learning with SHAPEAI.
+  <br>I got to have hands on experience on:
+  <li>HTML
+  <li>css
+    <br>during these 7days,and everything was explained from the very basics so that anyone with zero experience on programming can learn.
+ 
